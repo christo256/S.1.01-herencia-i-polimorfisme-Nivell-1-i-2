@@ -1,4 +1,4 @@
-package tareaS1;
+package tarea1S1Nivel1;
 
 public abstract class Tools {
 

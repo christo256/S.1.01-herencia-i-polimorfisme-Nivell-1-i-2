@@ -1,4 +1,4 @@
-package tareaS1;
+package tarea1S1Nivel1;
 
 public class Percussion extends Tools {
     public Percussion(String name, double price) {
