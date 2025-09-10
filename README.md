@@ -2,7 +2,9 @@
 
 This project contains three Java programming exercises focused on object-oriented concepts and class structure:
 
-Exercise 1 – Musical Instruments
+---
+
+## Exercise 1 – Musical Instruments
 
 Modeling a class hierarchy for musical instruments. It includes an abstract class with a play() method, and specific subclasses (wind, string, and percussion instruments). It also demonstrates the use of initialization blocks and static blocks in Java.
 
