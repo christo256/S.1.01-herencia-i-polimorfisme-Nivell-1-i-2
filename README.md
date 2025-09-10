@@ -36,7 +36,7 @@ Terminal access or an IDE such as IntelliJ IDEA or Eclipse
 
 Clone this repository:
 
-git clone: https://github.com/christo256/S.1.01-herencia-i-polimorfisme-Nivell-1-i-2/edit/main/README.md
+git clone: https://github.com/christo256/S.1.01-herencia-i-polimorfisme-Nivell-1-i-2.git
 
 
 Navigate to the project directory:
