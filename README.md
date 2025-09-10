@@ -8,15 +8,21 @@ This project contains three Java programming exercises focused on object-oriente
 
 Modeling a class hierarchy for musical instruments. It includes an abstract class with a play() method, and specific subclasses (wind, string, and percussion instruments). It also demonstrates the use of initialization blocks and static blocks in Java.
 
-Exercise 2 – Car Class
+--- 
+
+## Exercise 2 – Car Class
 
 Creation of a class with the attributes static, final, and static final. It demonstrates the difference between them and includes both a static method (brake()) and a non-static method (accelerate()).
 
-Exercise 1 (Level 2) – Smartphone with Interfaces
+---
+
+## Exercise 1 (Level 2) – Smartphone with Interfaces
 
 Creation of a class hierarchy where a class Smartphone extends Phone and implements two interfaces: Camera and Clock. Methods used include call(), photograph(), and alarm().
 
-💻 Technologies Used
+---
+
+## 💻 Technologies Used
 
 Java 23
 
@@ -26,7 +32,7 @@ Git + GitHub
 
 .gitignore to manage unnecessary files
 
-📋 Requirements
+## 📋 Requirements
 
 JDK 17 or higher
 
@@ -34,7 +40,7 @@ Maven (optional, if dependency management is needed)
 
 Terminal access or an IDE such as IntelliJ IDEA or Eclipse
 
-🛠️ Installation
+## 🛠️ Installation
 
 Clone this repository:
 
@@ -48,7 +54,7 @@ cd 1.1-OOP-Java-Level2
 
 Open the project in your preferred IDE (recommended: IntelliJ IDEA)
 
-▶️ Execution
+## ▶️ Execution
 
 Ensure the project compiles successfully.
 
@@ -56,11 +62,11 @@ Open the Main.java class.
 
 Run the main() method to view the output in the console.
 
-🌐 Deployment
+## 🌐 Deployment
 
 This project is for educational purposes and does not require deployment to a production environment.
 
-🤝 Contributions
+## 🤝 Contributions
 
 Contributions are not required, as this is an individual assignment. However, if you'd like to improve the code:
 
