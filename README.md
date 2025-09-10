@@ -1,4 +1,4 @@
-📄 Description – Exercise Statement
+## 📄 Description – Exercise Statement
 
 This project contains three Java programming exercises focused on object-oriented concepts and class structure:
 
