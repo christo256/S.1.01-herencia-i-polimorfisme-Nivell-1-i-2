@@ -16,7 +16,7 @@ Creation of a class hierarchy where a class Smartphone extends Phone and impleme
 
 💻 Technologies Used
 
-Java 17
+Java 23
 
 IntelliJ IDEA (or any Java-compatible IDE)
 
@@ -36,7 +36,7 @@ Terminal access or an IDE such as IntelliJ IDEA or Eclipse
 
 Clone this repository:
 
-git clone https://github.com/yourusername/1.1-OOP-Java-Level2.git
+git clone: https://github.com/christo256/S.1.01-herencia-i-polimorfisme-Nivell-1-i-2/edit/main/README.md
 
 
 Navigate to the project directory:
