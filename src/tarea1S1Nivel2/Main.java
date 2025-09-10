@@ -5,7 +5,7 @@ public class Main {
 
         Smartphone mySmarthphone = new Smartphone("Apple", "Iphone 16");
 
-        System.out.println(" Phone Brand: " + mySmarthphone.getBrand() + ". Model: " + mySmarthphone.getModel());
+        System.out.println("Phone Brand: " + mySmarthphone.getBrand() + ". Model: " + mySmarthphone.getModel());
         mySmarthphone.call("688302679");
         mySmarthphone.photograph();
         mySmarthphone.alarm();

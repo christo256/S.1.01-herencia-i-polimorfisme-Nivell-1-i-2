@@ -1,9 +1,9 @@
 package tarea2S1Nivel1;
 
 public class Car {
-   public static final String brand = "Ford";
-   public static String model;
-   public final int horses;
+    public static final String brand = "Ford";
+    public static String model;
+    public final int horses;
 
     public Car(String model, int horses) {
         if (model == null || model.trim().isEmpty()) {
@@ -20,23 +20,26 @@ public class Car {
     public static String getBrand() {
         return brand;
     }
+
     public static String getModel() {
         return model;
     }
+
     public int getHorses() {
         return horses;
     }
 
-    public static void brake(){
+    public static void brake() {
         System.out.println("The vehicle is braking.");
     }
-    public void accelerate(){
+
+    public void accelerate() {
         System.out.println("The vehicle is accelerating.");
     }
 
     @Override
     public String toString() {
-        return "Model " + Car.model + "." +
-                " horses: " + horses;
+        return "Brand: " + getBrand() + ", Model: " + getModel() + "," +
+                " horses: " + getHorses();
     }
 }

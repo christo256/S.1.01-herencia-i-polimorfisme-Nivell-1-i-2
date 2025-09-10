@@ -5,7 +5,8 @@ public abstract class Instruments {
     private String name;
     private double price;
 
-    public Instruments(String name, double price) {
+    public Instruments(String name, double price)
+            throws IllegalArgumentException {
         if (name == null || name.trim().isEmpty()) {
             throw new IllegalArgumentException(" The name cannot be empty.");
         }

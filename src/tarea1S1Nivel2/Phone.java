@@ -5,7 +5,7 @@ public class Phone {
     private String brand;
     private String model;
 
-    public Phone (String brand, String model) {
+    public Phone(String brand, String model) {
         if (brand == null || brand.trim().isEmpty()) {
             throw new IllegalArgumentException(" The mark cannot be empty.");
         }
@@ -20,11 +20,11 @@ public class Phone {
         return brand;
     }
 
-    public String getModel(){
+    public String getModel() {
         return model;
     }
 
-    public void call(String number){
+    public void call(String number) {
         if (number == null || number.trim().isEmpty()) {
             throw new IllegalArgumentException(" The phone number cannot be empty.");
         }
