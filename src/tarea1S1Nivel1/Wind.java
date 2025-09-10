@@ -1,6 +1,6 @@
 package tarea1S1Nivel1;
 
-public class Wind extends Tools {
+public class Wind extends Instruments {
 
     public Wind(String name, double price){
         super(name,price);

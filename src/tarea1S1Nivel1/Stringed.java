@@ -1,6 +1,6 @@
 package tarea1S1Nivel1;
 
-public class Stringed extends Tools{
+public class Stringed extends Instruments {
 
     public Stringed(String name, double price) {
         super(name, price);

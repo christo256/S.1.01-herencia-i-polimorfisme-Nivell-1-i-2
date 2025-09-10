@@ -1,6 +1,6 @@
 package tarea1S1Nivel1;
 
-public class Percussion extends Tools {
+public class Percussion extends Instruments {
     public Percussion(String name, double price) {
         super(name, price);
     }

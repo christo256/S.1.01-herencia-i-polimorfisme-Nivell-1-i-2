@@ -10,8 +10,6 @@ public class Main {
         Percussion drum = new Percussion("Drum", 400);
 
 
-
-
         System.out.println(trumpet.toString());
         trumpet.play();
 
